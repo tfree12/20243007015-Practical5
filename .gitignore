@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Assignment brief and source materials (not part of the Android project)
+/Practical 5.pdf
+/Practical 5 - SubmissionGuidelines.pdf
+/Practical 5 - Resources/
